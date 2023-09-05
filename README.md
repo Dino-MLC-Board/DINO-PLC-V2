@@ -10,3 +10,6 @@
  I2C          :     Yes (SDA=21,SCL=13)
  CPU          :     ESP32-WROOM-32U
  Antenna      :     IPEX with Antenna
+# Library version
+ First relaesed
+ - .............
