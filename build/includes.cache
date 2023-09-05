@@ -1,0 +1,447 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\super\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.11\\cores\\esp32"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\super\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.11\\variants\\esp32"
+  },
+  {
+    "Sourcefile": "d:\\Project\\K.Saravut\\git\\DINI-PLC-V2\\build\\sketch\\tutor09_webmonitor.ino.cpp",
+    "Include": "DINO_PLC_V2.h",
+    "Includepath": "E:\\Arduino_Lib\\libraries\\DINO_PLC_V2\\src"
+  },
+  {
+    "Sourcefile": "d:\\Project\\K.Saravut\\git\\DINI-PLC-V2\\build\\sketch\\tutor09_webmonitor.ino.cpp",
+    "Include": "SPIFFS.h",
+    "Includepath": "C:\\Users\\super\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.11\\libraries\\SPIFFS\\src"
+  },
+  {
+    "Sourcefile": "d:\\Project\\K.Saravut\\git\\DINI-PLC-V2\\build\\sketch\\tutor09_webmonitor.ino.cpp",
+    "Include": "FS.h",
+    "Includepath": "C:\\Users\\super\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.11\\libraries\\FS\\src"
+  },
+  {
+    "Sourcefile": "d:\\Project\\K.Saravut\\git\\DINI-PLC-V2\\build\\sketch\\tutor09_webmonitor.ino.cpp",
+    "Include": "StreamUtils.h",
+    "Includepath": "E:\\Arduino_Lib\\libraries\\StreamUtils\\src"
+  },
+  {
+    "Sourcefile": "d:\\Project\\K.Saravut\\git\\DINI-PLC-V2\\build\\sketch\\tutor09_webmonitor.ino.cpp",
+    "Include": "EEPROM.h",
+    "Includepath": "C:\\Users\\super\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.11\\libraries\\EEPROM\\src"
+  },
+  {
+    "Sourcefile": "d:\\Project\\K.Saravut\\git\\DINI-PLC-V2\\build\\sketch\\tutor09_webmonitor.ino.cpp",
+    "Include": "ArduinoJson.h",
+    "Includepath": "E:\\Arduino_Lib\\libraries\\ArduinoJson\\src"
+  },
+  {
+    "Sourcefile": "d:\\Project\\K.Saravut\\git\\DINI-PLC-V2\\build\\sketch\\tutor09_webmonitor.ino.cpp",
+    "Include": "ESP32Time.h",
+    "Includepath": "E:\\Arduino_Lib\\libraries\\ESP32Time"
+  },
+  {
+    "Sourcefile": "d:\\Project\\K.Saravut\\git\\DINI-PLC-V2\\build\\sketch\\tutor09_webmonitor.ino.cpp",
+    "Include": "Wire.h",
+    "Includepath": "C:\\Users\\super\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.11\\libraries\\Wire\\src"
+  },
+  {
+    "Sourcefile": "d:\\Project\\K.Saravut\\git\\DINI-PLC-V2\\build\\sketch\\tutor09_webmonitor.ino.cpp",
+    "Include": "FRAM.h",
+    "Includepath": "E:\\Arduino_Lib\\libraries\\FRAM_I2C"
+  },
+  {
+    "Sourcefile": "d:\\Project\\K.Saravut\\git\\DINI-PLC-V2\\build\\sketch\\tutor09_webmonitor.ino.cpp",
+    "Include": "Ethernet.h",
+    "Includepath": "E:\\Arduino_Lib\\libraries\\Ethernet\\src"
+  },
+  {
+    "Sourcefile": "d:\\Project\\K.Saravut\\git\\DINI-PLC-V2\\build\\sketch\\tutor09_webmonitor.ino.cpp",
+    "Include": "PubSubClient.h",
+    "Includepath": "E:\\Arduino_Lib\\libraries\\PubSubClient\\src"
+  },
+  {
+    "Sourcefile": "d:\\Project\\K.Saravut\\git\\DINI-PLC-V2\\build\\sketch\\tutor09_webmonitor.ino.cpp",
+    "Include": "ModbusServerEthernet.h",
+    "Includepath": "E:\\Arduino_Lib\\libraries\\eModbus-master\\src"
+  },
+  {
+    "Sourcefile": "d:\\Project\\K.Saravut\\git\\DINI-PLC-V2\\build\\sketch\\tutor09_webmonitor.ino.cpp",
+    "Include": "SPI.h",
+    "Includepath": "C:\\Users\\super\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.11\\libraries\\SPI\\src"
+  },
+  {
+    "Sourcefile": "d:\\Project\\K.Saravut\\git\\DINI-PLC-V2\\build\\sketch\\tutor09_webmonitor.ino.cpp",
+    "Include": "BlynkSimpleEthernet.h",
+    "Includepath": "E:\\Arduino_Lib\\libraries\\Blynk\\src"
+  },
+  {
+    "Sourcefile": "d:\\Project\\K.Saravut\\git\\DINI-PLC-V2\\build\\sketch\\tutor09_webmonitor.ino.cpp",
+    "Include": "RTClib.h",
+    "Includepath": "E:\\Arduino_Lib\\libraries\\RTClib\\src"
+  },
+  {
+    "Sourcefile": "d:\\Project\\K.Saravut\\git\\DINI-PLC-V2\\build\\sketch\\tutor09_webmonitor.ino.cpp",
+    "Include": "Adafruit_I2CDevice.h",
+    "Includepath": "E:\\Arduino_Lib\\libraries\\Adafruit_BusIO"
+  },
+  {
+    "Sourcefile": "d:\\Project\\K.Saravut\\git\\DINI-PLC-V2\\build\\sketch\\tutor09_webmonitor.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "E:\\Arduino_Lib\\libraries\\DINO_PLC_V2\\src\\DINO_PLC_V2.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "E:\\Arduino_Lib\\libraries\\DINO_PLC_V2\\src\\datamanage.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "E:\\Arduino_Lib\\libraries\\DINO_PLC_V2\\src\\dino_blynk.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "E:\\Arduino_Lib\\libraries\\DINO_PLC_V2\\src\\dino_line.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "E:\\Arduino_Lib\\libraries\\DINO_PLC_V2\\src\\dino_modbus_tcp.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "E:\\Arduino_Lib\\libraries\\DINO_PLC_V2\\src\\dino_mqtt.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "E:\\Arduino_Lib\\libraries\\DINO_PLC_V2\\src\\ladder.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "E:\\Arduino_Lib\\libraries\\DINO_PLC_V2\\src\\modbus_rtu.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "E:\\Arduino_Lib\\libraries\\DINO_PLC_V2\\src\\plc_com.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "E:\\Arduino_Lib\\libraries\\DINO_PLC_V2\\src\\plc_io.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "E:\\Arduino_Lib\\libraries\\DINO_PLC_V2\\src\\plc_other.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "E:\\Arduino_Lib\\libraries\\DINO_PLC_V2\\src\\plc_timer.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "E:\\Arduino_Lib\\libraries\\DINO_PLC_V2\\src\\tfflash.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "E:\\Arduino_Lib\\libraries\\DINO_PLC_V2\\src\\webmonitor.cpp",
+    "Include": "EthernetWebServer.h",
+    "Includepath": "E:\\Arduino_Lib\\libraries\\EthernetWebServer\\src"
+  },
+  {
+    "Sourcefile": "E:\\Arduino_Lib\\libraries\\DINO_PLC_V2\\src\\webmonitor.cpp",
+    "Include": "functional-vlpp.h",
+    "Includepath": "E:\\Arduino_Lib\\libraries\\Functional-Vlpp\\src"
+  },
+  {
+    "Sourcefile": "E:\\Arduino_Lib\\libraries\\DINO_PLC_V2\\src\\webmonitor.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\super\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.11\\libraries\\SPIFFS\\src\\SPIFFS.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\super\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.11\\libraries\\FS\\src\\FS.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\super\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.11\\libraries\\FS\\src\\vfs_api.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\super\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.11\\libraries\\EEPROM\\src\\EEPROM.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "E:\\Arduino_Lib\\libraries\\ESP32Time\\ESP32Time.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\super\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.11\\libraries\\Wire\\src\\Wire.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "E:\\Arduino_Lib\\libraries\\FRAM_I2C\\FRAM.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "E:\\Arduino_Lib\\libraries\\FRAM_I2C\\FRAM_MULTILANGUAGE.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "E:\\Arduino_Lib\\libraries\\FRAM_I2C\\FRAM_RINGBUFFER.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "E:\\Arduino_Lib\\libraries\\Ethernet\\src\\Dhcp.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "E:\\Arduino_Lib\\libraries\\Ethernet\\src\\Dns.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "E:\\Arduino_Lib\\libraries\\Ethernet\\src\\Ethernet.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "E:\\Arduino_Lib\\libraries\\Ethernet\\src\\EthernetClient.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "E:\\Arduino_Lib\\libraries\\Ethernet\\src\\EthernetServer.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "E:\\Arduino_Lib\\libraries\\Ethernet\\src\\EthernetUdp.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "E:\\Arduino_Lib\\libraries\\Ethernet\\src\\socket.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "E:\\Arduino_Lib\\libraries\\Ethernet\\src\\utility\\w5100.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "E:\\Arduino_Lib\\libraries\\PubSubClient\\src\\PubSubClient.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "E:\\Arduino_Lib\\libraries\\eModbus-master\\src\\CoilData.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "E:\\Arduino_Lib\\libraries\\eModbus-master\\src\\Logging.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "E:\\Arduino_Lib\\libraries\\eModbus-master\\src\\ModbusClient.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "E:\\Arduino_Lib\\libraries\\eModbus-master\\src\\ModbusClientRTU.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "E:\\Arduino_Lib\\libraries\\eModbus-master\\src\\ModbusClientTCP.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "E:\\Arduino_Lib\\libraries\\eModbus-master\\src\\ModbusClientTCPasync.cpp",
+    "Include": "AsyncTCP.h",
+    "Includepath": "E:\\Arduino_Lib\\libraries\\AsyncTCP\\src"
+  },
+  {
+    "Sourcefile": "E:\\Arduino_Lib\\libraries\\eModbus-master\\src\\ModbusClientTCPasync.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "E:\\Arduino_Lib\\libraries\\eModbus-master\\src\\ModbusMessage.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "E:\\Arduino_Lib\\libraries\\eModbus-master\\src\\ModbusServer.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "E:\\Arduino_Lib\\libraries\\eModbus-master\\src\\ModbusServerRTU.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "E:\\Arduino_Lib\\libraries\\eModbus-master\\src\\ModbusServerTCPasync.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "E:\\Arduino_Lib\\libraries\\eModbus-master\\src\\ModbusTypeDefs.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "E:\\Arduino_Lib\\libraries\\eModbus-master\\src\\RTUutils.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\super\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.11\\libraries\\SPI\\src\\SPI.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "E:\\Arduino_Lib\\libraries\\Blynk\\src\\utility\\BlynkDebug.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "E:\\Arduino_Lib\\libraries\\Blynk\\src\\utility\\BlynkHandlers.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "E:\\Arduino_Lib\\libraries\\Blynk\\src\\utility\\BlynkTimer.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "E:\\Arduino_Lib\\libraries\\Blynk\\src\\utility\\utility.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "E:\\Arduino_Lib\\libraries\\RTClib\\src\\RTC_DS1307.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "E:\\Arduino_Lib\\libraries\\RTClib\\src\\RTC_DS3231.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "E:\\Arduino_Lib\\libraries\\RTClib\\src\\RTC_Micros.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "E:\\Arduino_Lib\\libraries\\RTClib\\src\\RTC_Millis.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "E:\\Arduino_Lib\\libraries\\RTClib\\src\\RTC_PCF8523.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "E:\\Arduino_Lib\\libraries\\RTClib\\src\\RTC_PCF8563.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "E:\\Arduino_Lib\\libraries\\RTClib\\src\\RTClib.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "E:\\Arduino_Lib\\libraries\\Adafruit_BusIO\\Adafruit_BusIO_Register.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "E:\\Arduino_Lib\\libraries\\Adafruit_BusIO\\Adafruit_I2CDevice.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "E:\\Arduino_Lib\\libraries\\Adafruit_BusIO\\Adafruit_SPIDevice.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "E:\\Arduino_Lib\\libraries\\EthernetWebServer\\src\\Ethernet_HTTPClient\\Ethernet_HttpClient.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "E:\\Arduino_Lib\\libraries\\EthernetWebServer\\src\\Ethernet_HTTPClient\\Ethernet_URLEncoder.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "E:\\Arduino_Lib\\libraries\\EthernetWebServer\\src\\Ethernet_HTTPClient\\Ethernet_WebSocketClient.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "E:\\Arduino_Lib\\libraries\\EthernetWebServer\\src\\detail\\esp_detail\\mimetable.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "E:\\Arduino_Lib\\libraries\\EthernetWebServer\\src\\libb64\\base64.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "E:\\Arduino_Lib\\libraries\\EthernetWebServer\\src\\libb64\\cdecode.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "E:\\Arduino_Lib\\libraries\\EthernetWebServer\\src\\libb64\\cencode.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "E:\\Arduino_Lib\\libraries\\AsyncTCP\\src\\AsyncTCP.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
