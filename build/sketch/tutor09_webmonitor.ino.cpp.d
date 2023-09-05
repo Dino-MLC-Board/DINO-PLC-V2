@@ -132,7 +132,7 @@ d:\Project\K.Saravut\git\DINI-PLC-V2\build\sketch\tutor09_webmonitor.ino.cpp.o: 
  C:\Users\super\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.11/tools/sdk/esp32/include/esp_hw_support/include/soc/esp32/spiram.h \
  C:\Users\super\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.11\cores\esp32/io_pin_remap.h \
  C:\Users\super\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.11\cores\esp32/Arduino.h \
- E:\Arduino_Lib\libraries\DINO_PLC_V2\src/DINO_PLC_V2.h \
+ E:\Arduino_Lib\libraries\E82_PLC\src/DINO_PLC_V2.h \
  C:\Users\super\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.11\libraries\SPIFFS\src/SPIFFS.h \
  C:\Users\super\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.11\libraries\FS\src/FS.h \
  E:\Arduino_Lib\libraries\StreamUtils\src/StreamUtils.h \
@@ -190,37 +190,30 @@ d:\Project\K.Saravut\git\DINI-PLC-V2\build\sketch\tutor09_webmonitor.ino.cpp.o: 
  E:\Arduino_Lib\libraries\ArduinoJson\src/ArduinoJson.hpp \
  E:\Arduino_Lib\libraries\ArduinoJson\src/ArduinoJson/Configuration.hpp \
  E:\Arduino_Lib\libraries\ESP32Time/ESP32Time.h \
- C:\Users\super\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.11\libraries\Wire\src/Wire.h \
- C:\Users\super\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.11\cores\esp32/esp32-hal.h \
- E:\Arduino_Lib\libraries\FRAM_I2C/FRAM.h \
- E:\Arduino_Lib\libraries\Ethernet\src/Ethernet.h \
- C:\Users\super\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.11\cores\esp32/Server.h \
- C:\Users\super\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.11\cores\esp32/Udp.h \
- E:\Arduino_Lib\libraries\Ethernet\src/EthernetUdp.h \
- E:\Arduino_Lib\libraries\Ethernet\src/Ethernet.h \
- E:\Arduino_Lib\libraries\PubSubClient\src/PubSubClient.h \
- E:\Arduino_Lib\libraries\eModbus-master\src/ModbusServerEthernet.h \
- E:\Arduino_Lib\libraries\eModbus-master\src/options.h \
- C:\Users\super\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.11\libraries\SPI\src/SPI.h \
- C:\Users\super\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.11\cores\esp32/esp32-hal-spi.h \
- E:\Arduino_Lib\libraries\eModbus-master\src/ModbusServerTCPtemp.h \
- E:\Arduino_Lib\libraries\eModbus-master\src/ModbusServer.h \
- E:\Arduino_Lib\libraries\eModbus-master\src/ModbusTypeDefs.h \
- E:\Arduino_Lib\libraries\eModbus-master\src/ModbusError.h \
- E:\Arduino_Lib\libraries\eModbus-master\src/ModbusMessage.h \
- E:\Arduino_Lib\libraries\eModbus-master\src/Logging.h \
- E:\Arduino_Lib\libraries\Blynk\src/BlynkSimpleEthernet.h \
- E:\Arduino_Lib\libraries\Ethernet\src/EthernetClient.h \
- E:\Arduino_Lib\libraries\Blynk\src/Adapters/BlynkEthernet.h \
- E:\Arduino_Lib\libraries\Blynk\src/BlynkApiArduino.h \
- E:\Arduino_Lib\libraries\Blynk\src/Blynk/BlynkApi.h \
- E:\Arduino_Lib\libraries\Blynk\src/Blynk/BlynkConfig.h \
- E:\Arduino_Lib\libraries\Blynk\src/Blynk/BlynkDetectDevice.h \
- E:\Arduino_Lib\libraries\Blynk\src/Blynk/BlynkDebug.h \
- E:\Arduino_Lib\libraries\Blynk\src/Blynk/BlynkParam.h \
- E:\Arduino_Lib\libraries\Blynk\src/Blynk/BlynkTimer.h \
- E:\Arduino_Lib\libraries\Blynk\src/Blynk/BlynkHandlers.h \
- E:\Arduino_Lib\libraries\Blynk\src/Blynk/BlynkProtocolDefs.h \
+ C:\Users\super\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.11\libraries\WiFi\src/WiFi.h \
+ C:\Users\super\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.11\cores\esp32/IPv6Address.h \
+ C:\Users\super\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.11\libraries\WiFi\src/WiFiType.h \
+ C:\Users\super\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.11/tools/sdk/esp32/include/esp_wifi/include/esp_wifi_types.h \
+ C:\Users\super\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.11/tools/sdk/esp32/include/esp_wifi/include/esp_private/esp_wifi_types_private.h \
+ C:\Users\super\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.11/tools/sdk/esp32/include/esp_hw_support/include/esp_interface.h \
+ C:\Users\super\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.11/tools/sdk/esp32/include/esp_event/include/esp_event_base.h \
+ C:\Users\super\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.11\libraries\WiFi\src/WiFiSTA.h \
+ C:\Users\super\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.11\libraries\WiFi\src/WiFiGeneric.h \
+ C:\Users\super\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.11/tools/sdk/esp32/include/esp_event/include/esp_event.h \
+ C:\Users\super\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.11/tools/sdk/esp32/include/esp_event/include/esp_event_base.h \
+ C:\Users\super\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.11/tools/sdk/esp32/include/esp_event/include/esp_event_legacy.h \
+ C:\Users\super\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.11/tools/sdk/esp32/include/esp_netif/include/esp_netif.h \
+ C:\Users\super\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.11/tools/sdk/esp32/include/esp_netif/include/esp_netif_ip_addr.h \
+ C:\Users\super\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.11/tools/sdk/esp32/include/esp_netif/include/esp_netif_types.h \
+ C:\Users\super\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.11/tools/sdk/esp32/include/esp_netif/include/esp_netif_defaults.h \
+ C:\Users\super\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.11/tools/sdk/esp32/include/esp_eth/include/esp_eth_netif_glue.h \
+ C:\Users\super\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.11/tools/sdk/esp32/include/esp_eth/include/esp_eth.h \
+ C:\Users\super\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.11/tools/sdk/esp32/include/esp_eth/include/esp_eth_com.h \
+ C:\Users\super\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.11/tools/sdk/esp32/include/hal/include/hal/eth_types.h \
+ C:\Users\super\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.11/tools/sdk/esp32/include/esp_eth/include/esp_eth_mac.h \
+ C:\Users\super\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.11/tools/sdk/esp32/include/esp_eth/include/esp_eth_phy.h \
+ C:\Users\super\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.11/tools/sdk/esp32/include/tcpip_adapter/include/tcpip_adapter.h \
+ C:\Users\super\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.11/tools/sdk/esp32/include/tcpip_adapter/include/tcpip_adapter_types.h \
  C:\Users\super\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.11/tools/sdk/esp32/include/lwip/lwip/src/include/lwip/ip_addr.h \
  C:\Users\super\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.11/tools/sdk/esp32/include/lwip/lwip/src/include/lwip/opt.h \
  C:\Users\super\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.11/tools/sdk/esp32/include/lwip/port/esp32/include/lwipopts.h \
@@ -239,17 +232,19 @@ d:\Project\K.Saravut\git\DINI-PLC-V2\build\sketch\tutor09_webmonitor.ino.cpp.o: 
  C:\Users\super\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.11/tools/sdk/esp32/include/lwip/lwip/src/include/lwip/ip6_addr.h \
  C:\Users\super\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.11/tools/sdk/esp32/include/lwip/lwip/src/include/lwip/def.h \
  C:\Users\super\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.11/tools/sdk/esp32/include/lwip/lwip/src/include/lwip/ip6_zone.h \
- E:\Arduino_Lib\libraries\Blynk\src/Blynk/BlynkProtocol.h \
- E:\Arduino_Lib\libraries\Blynk\src/Blynk/BlynkUtility.h \
- E:\Arduino_Lib\libraries\Blynk\src/Adapters/BlynkArduinoClient.h \
- E:\Arduino_Lib\libraries\Blynk\src/BlynkWidgets.h \
- E:\Arduino_Lib\libraries\Blynk\src/WidgetLED.h \
- E:\Arduino_Lib\libraries\Blynk\src/Blynk/BlynkWidgetBase.h \
- E:\Arduino_Lib\libraries\Blynk\src/WidgetLCD.h \
- E:\Arduino_Lib\libraries\Blynk\src/WidgetTerminal.h \
- E:\Arduino_Lib\libraries\Blynk\src/utility/BlynkFifo.h \
- E:\Arduino_Lib\libraries\Blynk\src/WidgetTimeInput.h \
- E:\Arduino_Lib\libraries\Blynk\src/Blynk/BlynkDateTime.h \
- E:\Arduino_Lib\libraries\Blynk\src/WidgetMap.h \
- E:\Arduino_Lib\libraries\RTClib\src/RTClib.h \
- E:\Arduino_Lib\libraries\Adafruit_BusIO/Adafruit_I2CDevice.h
+ C:\Users\super\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.11/tools/sdk/esp32/include/lwip/include/apps/dhcpserver/dhcpserver.h \
+ C:\Users\super\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.11/tools/sdk/esp32/include/lwip/lwip/src/include/lwip/err.h \
+ C:\Users\super\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.11/tools/sdk/esp32/include/esp_netif/include/esp_netif_sta_list.h \
+ C:\Users\super\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.11/tools/sdk/esp32/include/esp_wifi/include/esp_smartconfig.h \
+ C:\Users\super\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.11/tools/sdk/esp32/include/wifi_provisioning/include/wifi_provisioning/manager.h \
+ C:\Users\super\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.11/tools/sdk/esp32/include/protocomm/include/common/protocomm.h \
+ C:\Users\super\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.11/tools/sdk/esp32/include/protocomm/include/security/protocomm_security.h \
+ C:\Users\super\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.11/tools/sdk/esp32/include/wifi_provisioning/include/wifi_provisioning/wifi_config.h \
+ C:\Users\super\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.11\libraries\WiFi\src/WiFiAP.h \
+ C:\Users\super\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.11\libraries\WiFi\src/WiFiScan.h \
+ C:\Users\super\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.11\libraries\WiFi\src/WiFiClient.h \
+ C:\Users\super\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.11\libraries\WiFi\src/WiFiServer.h \
+ C:\Users\super\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.11\cores\esp32/Server.h \
+ C:\Users\super\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.11\libraries\WiFi\src/WiFiUdp.h \
+ C:\Users\super\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.11\cores\esp32/Udp.h \
+ C:\Users\super\AppData\Local\Arduino15\packages\esp32\hardware\esp32\2.0.11\cores\esp32/cbuf.h
