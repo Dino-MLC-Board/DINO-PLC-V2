@@ -11,5 +11,5 @@
  - CPU          :     ESP32-WROOM-32U
  - Antenna      :     IPEX with Antenna
  - Library version
- First relaesed
- - .............
+# First relaesed
+ - Firt released
