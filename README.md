@@ -1,16 +1,25 @@
-# DINI-PLC-V2
- This is FX2N Library for DINO PLC V2
-# Hardware specifications
- - Input        :     6   Input (Isolated)
- - Output       :     4   Output (Relay)
- - Ethernet     :     Yes
- - RS485        :     Yes 
- - Retentive memory : Yes (8K)
- - RTC          :     Yes (DS1307)
- - I2C          :     Yes (SDA=21,SCL=13)
- - CPU          :     ESP32-WROOM-32U
- - Antenna      :     IPEX with Antenna
- - Library version
-# First relaesed
- - Firt released
- - No new update
+# New features of V2
+  - Retentive D Memory from D200 - D1000
+  - Retentive T Memory
+  - Retentive D Memory
+  - Retentive S Bit memory
+  - Retentive M Bit memory
+  - DS1307 RTC added
+  - High speed output (Y4)
+  - I2C port (4 pin) >>> GND,VCC,SDA.SCL
+
+# PLC Compatible version (FX2N)
+  - Input           :   6   Input   (24 VDC , Source type)
+  - Output          :   4   Output  (Relay)
+  - RS485           :   1   Channel (Auto direction)
+  - Wifi            :   Yes
+  - Ethernet        :   Yes (W5500)
+  - Retentive memory:   8 K
+  - I2C port        :   1 Channel
+  - RTC             :   Yes (DS1307)
+
+# DINO PLC V2 1.0.0
+  - First released
+# DINO PLC V2 1.0.1
+  - Blynk fixed
+# DINO PLC V2 1.0.2
