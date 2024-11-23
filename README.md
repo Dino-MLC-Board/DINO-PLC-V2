@@ -23,3 +23,5 @@
 # DINO PLC V2 1.0.1
   - Blynk fixed
 # DINO PLC V2 1.0.2
+  - Minor updated
+# DINO PLC V2 1.0.3
