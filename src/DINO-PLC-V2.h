@@ -15,6 +15,7 @@
 #include <BlynkSimpleEthernet.h>
 #include <ErriezDS1307.h>
 #include <Ticker.h>
+#include <WiFi.h>
 #include <esp_wifi.h>
 
 //--------------------------- Main Function Parts
@@ -39,5 +40,6 @@ void     updateRTC();
 void     setmyRTCTime(uint16_t s,uint16_t m,uint16_t h,uint16_t d,uint16_t mo,uint16_t yr,uint16_t dw);
 
 void     PLC_Network_Function();
+void     getESPMAC(uint8_t* _baseMAC);
 
 #endif
