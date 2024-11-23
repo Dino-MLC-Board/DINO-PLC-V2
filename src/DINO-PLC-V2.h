@@ -15,6 +15,7 @@
 #include <BlynkSimpleEthernet.h>
 #include <ErriezDS1307.h>
 #include <Ticker.h>
+#include <esp_wifi.h>
 
 //--------------------------- Main Function Parts
 void     initPLC(uint16_t boardver = 101);
