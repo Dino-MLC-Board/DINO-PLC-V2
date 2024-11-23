@@ -25,3 +25,7 @@
 # DINO PLC V2 1.0.2
   - Minor updated
 # DINO PLC V2 1.0.3.2
+  - Minor updated
+  - MQTT expan buffer size to D = 100 unit,M = 100 unit
+  - DINO Mac address fixed
+  - MQTT Client id problem fixed
