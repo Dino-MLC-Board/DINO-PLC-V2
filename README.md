@@ -29,3 +29,5 @@
   - MQTT expan buffer size to D = 100 unit,M = 100 unit
   - DINO Mac address fixed
   - MQTT Client id problem fixed
+# DINO PLC V2 2.0.4
+  - New UI released
