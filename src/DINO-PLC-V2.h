@@ -41,5 +41,6 @@ void     setmyRTCTime(uint16_t s,uint16_t m,uint16_t h,uint16_t d,uint16_t mo,ui
 
 void     PLC_Network_Function();
 void     getESPMAC(uint8_t* _baseMAC);
+String   getDINOName();
 
 #endif
