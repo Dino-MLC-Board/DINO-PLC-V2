@@ -31,3 +31,5 @@
   - MQTT Client id problem fixed
 # DINO PLC V2 2.0.4
   - New UI released
+# DINO PLC V2 2.0.5
+  - RTC problem fixed
